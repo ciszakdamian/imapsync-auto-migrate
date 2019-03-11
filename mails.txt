@@ -1,0 +1,2 @@
+admin@domain.com password_source password_destination
+sales@domain.com password_source password_destination
