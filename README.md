@@ -1,5 +1,5 @@
 # imapsync-auto-migrate
-The BASH script allows auto create screens with imapsync and get mails accounts from list
+-The BASH script allows auto create screens with imapsync and get mails accounts from list
 </br>
 # Warning & Specification
 - BASH
